@@ -1,0 +1,19 @@
+.video-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 560px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+  }
+  
+  .video-card h3 {
+    margin: 10px 0;
+    font-size: 1.2rem;
+    color: #333;
+    text-align: center;
+  }
+  
