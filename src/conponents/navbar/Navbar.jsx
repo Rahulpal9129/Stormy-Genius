@@ -33,7 +33,7 @@ function Navbar() {
             <div className='nav-items'>
                    <Link className='item' to="/">Home</Link>
                    <Link className='item' to="/About">About</Link>
-                   <Link className='item' to="/Podcust">Podcust</Link>
+                   <Link className='item' to="/Podcust">Podcast</Link>
                    {/* <Link className='item' to="/">Contact</Link> */}
                    <p className='item' onClick={()=>handleScrollToFooter("sectionId")}>Contact us</p>
                  
